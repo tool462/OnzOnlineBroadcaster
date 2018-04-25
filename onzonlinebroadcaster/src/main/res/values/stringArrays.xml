@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="onzNets">
+        <item>Please select net</item>
+        <item>Testnet</item>
+        <item>Mainnet</item>
+        <item>Custom node</item>
+    </string-array>
+</resources>
